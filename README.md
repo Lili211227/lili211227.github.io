@@ -16,7 +16,7 @@ A modern, responsive portfolio showcasing my web development projects and skills
 
  Quick Setup
 
-1. Clone: git clone https://github.com/LIII211227/portfolio.git
+1. Clone: git clone https://lili211227.github.io
 2. Open index.html in browser
 3. Update personal info and projects
 4. Replace Web3Forms access key with yours
